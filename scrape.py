@@ -4,6 +4,11 @@
 # => parse html
 
 
+# install git 
+# git config --global user.name "Ramesh Pradhan"
+# git config --global user.email "pyrameshpradhan@gmail.com"
+
+
 import requests
 from bs4 import BeautifulSoup
 import json
