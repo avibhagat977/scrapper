@@ -4,9 +4,17 @@
 # => parse html
 
 
+# First time
 # install git 
 # git config --global user.name "Ramesh Pradhan"
 # git config --global user.email "pyrameshpradhan@gmail.com"
+# create a repository in github
+# copy paste git code from github
+
+
+# Always
+# git add .
+# git commit -m "Your message"
 
 
 import requests
